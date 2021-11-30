@@ -1,3 +1,5 @@
+# install.packages("readr")
+
 # Load the readr package.
 library(readr)
 
